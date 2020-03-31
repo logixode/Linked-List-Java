@@ -29,9 +29,9 @@ public class Main {
 
     }
   
-    /** Function untuk menghapus array dengan index pertama
+    /** Function untuk menghitung panjang list dari suatu node
      * @param oNode Node  node saat ini
-     * @return panjang data dari Node oNode
+     * @return int panjang data dari Node oNode
      */
     public static int listLength( Node oNode ) {
         int length = 0;
